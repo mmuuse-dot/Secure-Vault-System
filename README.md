@@ -1,4 +1,4 @@
-# 🔐 Secure Vault System (CyberSec Ops Challenge)
+#  Secure Vault System (CyberSec Ops Challenge)
 
 This project implements a Secure Vault System in Linux using Bash scripting.  
 It was developed as part of a junior cybersecurity operations challenge.
@@ -7,7 +7,7 @@ The system allows secure storage of sensitive files, permission management, vaul
 
 ---
 
-## 📁 Project Files
+##  Project Files
 
 - `vault_setup.sh` – Creates the secure vault and initializes files  
 - `vault_permissions.sh` – Manages file permissions interactively  
@@ -17,7 +17,7 @@ The system allows secure storage of sensitive files, permission management, vaul
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 Make scripts executable:
 
